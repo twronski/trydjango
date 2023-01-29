@@ -1,0 +1,10 @@
+python manage.py runserver
+python manage.py createsuperuser
+python manage.py makemigrations
+python manage.py migrate
+python manage.py shell
+
+Apps concept (components)
+ Default pre installed apps
+ Third party apps
+ my own apps
